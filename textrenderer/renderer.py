@@ -46,12 +46,15 @@ class Renderer(object):
             self.font_unsupport_chars = font_utils.get_unsupported_chars(self.fonts, corpus.chars_file)
 
     def gen_img(self, img_index):
+        #print('------------------------------')
+        #print(img_index)
         word, font, word_size = self.pick_font(img_index)
         self.dmsg("after pick font")
-
+        #print(font.getname())
+        #print(word)
         # Background's height should much larger than raw word image's height,
         # to make sure we can crop full word image after apply perspective
-        bg = self.gen_bg(width=word_size[0] * 8, height=word_size[1] * 8)
+        bg = self.gen_bg(width=word_size[0] * 8+1, height=word_size[1] * 8+1)
         word_img, text_box_pnts, word_color = self.draw_text_on_bg(word, font, bg)
         self.dmsg("After draw_text_on_bg")
 
@@ -190,16 +193,14 @@ class Renderer(object):
                   np.around(bbox[3] / scale))
 
         x_offset, y_offset = self.random_xy_offset(s_bbox_height, s_bbox_width, self.out_height, dst_width)
-
         dst_bbox = (
             self.int_around((s_bbox[0] - x_offset) * scale),
             self.int_around((s_bbox[1] - y_offset) * scale),
             self.int_around(dst_width * scale),
             self.int_around(self.out_height * scale)
         )
-
         # It's important do crop first and than do resize for speed consider
-        dst = img[dst_bbox[1]:dst_bbox[1] + dst_bbox[3], dst_bbox[0]:dst_bbox[0] + dst_bbox[2]]
+        dst = img[dst_bbox[1]:dst_bbox[1] + dst_bbox[3]+1, dst_bbox[0]:dst_bbox[0] + dst_bbox[2]]
 
         dst = cv2.resize(dst, (dst_width, self.out_height), interpolation=cv2.INTER_CUBIC)
 
@@ -474,7 +475,9 @@ class Renderer(object):
         """
         Resize background, let bg_width>=width, bg_height >=height, and random crop from resized background
         """
-        assert width > height
+        if width <= height:
+            print(width, height)
+
 
         bg = random.choice(self.bgs)
 
@@ -538,7 +541,7 @@ class Renderer(object):
         """
         offset = font.getoffset(word)
         size = font.getsize(word)
-        size = (size[0] - offset[0], size[1] - offset[1])
+        size = (size[0] - offset[0] + 1, size[1] - offset[1] + 1)
         return size
 
     def apply_perspective_transform(self, img, text_box_pnts, max_x, max_y, max_z, gpu=False):

@@ -20,6 +20,7 @@ data/bg/
 libs/gpu/GpuWrapper.cpp
 libs/gpu/*.so
 libs/gpu/build/
+allfonts/
 
 output/
 .caches
