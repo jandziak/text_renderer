@@ -1,4 +1,4 @@
-Cython
+keras_ocr
 opencv-python
 pillow
 numpy
