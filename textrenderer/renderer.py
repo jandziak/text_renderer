@@ -354,7 +354,9 @@ class Renderer(object):
         height = 0
         chars_size = []
         y_offset = 10 ** 5
+
         for c in word:
+
             size = font.getsize(c)
             chars_size.append(size)
 
@@ -369,21 +371,16 @@ class Renderer(object):
             if c_offset[1] < y_offset:
                 y_offset = c_offset[1]
 
-        char_space_width = int(height * np.random.uniform(self.cfg.random_space.min, self.cfg.random_space.max))
-
-        width += (char_space_width * (len(word) - 1))
-
         text_x = int((bg_width - width) / 2)
         text_y = int((bg_height - height) / 2)
+        # use random procentage of squeeze from the range [0.6, 1)
+        squeeze_procent = (random.random()+0.6)/1.6
 
         c_x = text_x
         c_y = text_y
-
         for i, c in enumerate(word):
-            # self.draw_text_wrapper(draw, c, c_x, c_y - y_offset, font, word_color, force_text_border)
             draw.text((c_x, c_y - y_offset), c, fill=word_color, font=font)
-
-            c_x += (chars_size[i][0] + char_space_width)
+            c_x += (squeeze_procent*chars_size[i][0])
 
         return text_x, text_y, width, height
 

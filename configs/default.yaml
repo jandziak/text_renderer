@@ -20,7 +20,7 @@ font_color:
 # If `random_space` is enabled, some text will be drawed char by char with a random space
 random_space:
   enable: true
-  fraction: 0.4
+  fraction: 1
   min: -0.1 # -0.1 will make chars very close or even overlapped
   max: 0
 
@@ -28,7 +28,7 @@ random_space:
 # Currently this process is very slow!
 curve:
   enable: true
-  fraction: 0.2
+  fraction: 0.5
   period: 360  # degree, sin 函数的周期
   min: 1 # sin 函数的幅值范围
   max: 5
@@ -54,7 +54,7 @@ img_bg:
 # Not work when random_space applied
 text_border:
   enable: true
-  fraction: 0.2
+  fraction: 0.5
 
   # lighter than word color
   light:
