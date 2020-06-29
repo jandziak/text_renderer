@@ -370,9 +370,10 @@ class Renderer(object):
             c_offset = font.getoffset(c)
             if c_offset[1] < y_offset:
                 y_offset = c_offset[1]
-
-        text_x = int((bg_width - width) / 2)
-        text_y = int((bg_height - height) / 2)
+        width += 30
+        height += 30
+        text_x = int((bg_width - width) / 2) + 20
+        text_y = int((bg_height - height) / 2) + 20
         # use random procentage of squeeze from the range [0.6, 1)
         squeeze_procent = (random.random()+0.7)/1.7
 
