@@ -180,8 +180,11 @@ if __name__ == "__main__":
     df.to_csv(flags.save_cut_dir + '/gt_labels.csv')
     detector = keras_ocr.detection.Detector()
     for i in tqdm(range(len(df))):
-    #i = 155
-    #if i == 155:
+    #i = 3429
+    #if i == 3429:
         bboxes, image = calc_box(img_path=df.path[i], detector=detector)
-        boxed = warpBox(image, bboxes[0][0], margin=0.1)
+        if len(bboxes[0]) > 0:
+            boxed = warpBox(image, bboxes[0][0], margin=0.1)
+        else:
+            boxed = image
         cv2.imwrite(flags.save_cut_dir + '/' + df.id[i] + '.jpg', boxed)
