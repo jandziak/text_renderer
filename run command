@@ -1,2 +1,2 @@
- python3 main.py --num_img 100  --clip_max_chars 16 --img_height 70 --fonts_list './data/fonts_list/eng.txt' --corpus_mode 'eng' --length 1 --chars_file './data/chars/eng.txt'
+ python3 main.py --num_img 1000  --clip_max_chars 16 --img_height 70 --fonts_list './data/fonts_list/1001fonts.txt' --corpus_mode 'eng' --length 1 --chars_file './data/chars/eng.txt'
 

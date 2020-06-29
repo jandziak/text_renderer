@@ -1,0 +1,472 @@
+./data/fonts/1001fonts/Anysome Italic.otf
+./data/fonts/1001fonts/DancingintheMinefields.ttf
+./data/fonts/1001fonts/Give You What You Like - OTF.otf
+./data/fonts/1001fonts/KGFeeling22.ttf
+./data/fonts/1001fonts/KGAlwaysAGoodTime.ttf
+./data/fonts/1001fonts/Gruenewald VA 1K.ttf
+./data/fonts/1001fonts/Mf Delicate Little Flower.ttf
+./data/fonts/1001fonts/GreatVibes-Regular.ttf
+./data/fonts/1001fonts/KGOneMoreNight.ttf
+./data/fonts/1001fonts/._Freehand-Blockletter-Bold-trial.ttf
+./data/fonts/1001fonts/Mf Summertime.ttf
+./data/fonts/1001fonts/Caranda Personal Use.ttf
+./data/fonts/1001fonts/KGWhenOceansRise.ttf
+./data/fonts/1001fonts/PatrickHand-Regular.ttf
+./data/fonts/1001fonts/OvertheRainbow.ttf
+./data/fonts/1001fonts/Behind Green Eyes - OTF.otf
+./data/fonts/1001fonts/Going Foward - TTF.ttf
+./data/fonts/1001fonts/New Balance Personal Use.ttf
+./data/fonts/1001fonts/._New Balance Personal Use.ttf
+./data/fonts/1001fonts/ArchitectsDaughter-Regular.ttf
+./data/fonts/1001fonts/Marshmallows and Chocolate - TTF.ttf
+./data/fonts/1001fonts/Afternoon in Stereo Personal Use.ttf
+./data/fonts/1001fonts/KGTheFighter.ttf
+./data/fonts/1001fonts/Thin Pencil Handwriting.ttf
+./data/fonts/1001fonts/Texas Woman - OTF.otf
+./data/fonts/1001fonts/._Orange Personal Use.ttf
+./data/fonts/1001fonts/._Beauty Bright Personal Use.ttf
+./data/fonts/1001fonts/Spring is Coming - OTF.otf
+./data/fonts/1001fonts/Simple Signature - OTF.otf
+./data/fonts/1001fonts/Kalam-Regular.ttf
+./data/fonts/1001fonts/._BLOWUP PERSONAL USE.ttf
+./data/fonts/1001fonts/NexaRustScriptL-0.otf
+./data/fonts/1001fonts/JandaEverydayCasual.ttf
+./data/fonts/1001fonts/Caveat-Regular.ttf
+./data/fonts/1001fonts/Beauty Bright Personal Use.ttf
+./data/fonts/1001fonts/Vampire Calligraphy - OTF.otf
+./data/fonts/1001fonts/Freehand-Blockletter-Regular-trial.ttf
+./data/fonts/1001fonts/KGSunnyAfternoon.ttf
+./data/fonts/1001fonts/Romochka.otf
+./data/fonts/1001fonts/December Calligraphy - TTF.ttf
+./data/fonts/1001fonts/Pink kangaroo.ttf
+./data/fonts/1001fonts/Reality Shift - TTF.ttf
+./data/fonts/1001fonts/KGGodGaveMeYou.ttf
+./data/fonts/1001fonts/Good Unicorn - TTF.ttf
+./data/fonts/1001fonts/LamiarRegular.otf
+./data/fonts/1001fonts/._Music Magic Personal Use.ttf
+./data/fonts/1001fonts/And This Happened.ttf
+./data/fonts/1001fonts/Blackberry Jam Personal Use.ttf
+./data/fonts/1001fonts/ToubibDemo-Light.ttf
+./data/fonts/1001fonts/SwankyandMooMoo.ttf
+./data/fonts/1001fonts/My December - OTF.otf
+./data/fonts/1001fonts/Bunch of Flowers Personal Use.ttf
+./data/fonts/1001fonts/akaDora.ttf
+./data/fonts/1001fonts/Waiting For You - OTF.otf
+./data/fonts/1001fonts/The Heart Maze Demo.ttf
+./data/fonts/1001fonts/WaitingfortheSunrise.ttf
+./data/fonts/1001fonts/akaFrivolity.otf
+./data/fonts/1001fonts/Miss Issippi - TTF.ttf
+./data/fonts/1001fonts/Galaxy Boy - TTF.ttf
+./data/fonts/1001fonts/KGBeneathYourBeautifulChunk.ttf
+./data/fonts/1001fonts/that i love you - OTF.otf
+./data/fonts/1001fonts/DK Hand.ttf
+./data/fonts/1001fonts/DiscoverBeauty.ttf
+./data/fonts/1001fonts/Misti's Destruction - TTF.ttf
+./data/fonts/1001fonts/._Zerocalcare-Script-Bold-trial.ttf
+./data/fonts/1001fonts/Piledrive Walts.ttf
+./data/fonts/1001fonts/Never Ever - TTF.ttf
+./data/fonts/1001fonts/Coffee At Midnight Demo.ttf
+./data/fonts/1001fonts/Dream Her - TTF.ttf
+./data/fonts/1001fonts/BeautifulEveryTime.ttf
+./data/fonts/1001fonts/Lie to Me - OTF.otf
+./data/fonts/1001fonts/._Casual Chance Personal Use.ttf
+./data/fonts/1001fonts/Springtime in April - OTF.otf
+./data/fonts/1001fonts/Atmospherica Personal Use.ttf
+./data/fonts/1001fonts/._Zerocalcare-Script-trial.ttf
+./data/fonts/1001fonts/GiveYouGlory.ttf
+./data/fonts/1001fonts/The Haunted Maze - TTF.ttf
+./data/fonts/1001fonts/Azkia demo.otf
+./data/fonts/1001fonts/._BrushHandNew.otf
+./data/fonts/1001fonts/._Adlery-Swash-trial.ttf
+./data/fonts/1001fonts/SharkintheWater.ttf
+./data/fonts/1001fonts/._Run to the Hills Personal Use.ttf
+./data/fonts/1001fonts/LamiarRegular.ttf
+./data/fonts/1001fonts/A Perfect Place - OTF.otf
+./data/fonts/1001fonts/Elephant Ears Demo.ttf
+./data/fonts/1001fonts/._Brilhant PERSONAL USE.ttf
+./data/fonts/1001fonts/Lie to Me - TTF.ttf
+./data/fonts/1001fonts/Behind Green Eyes - TTF.ttf
+./data/fonts/1001fonts/KGFaithHopeAndLove.ttf
+./data/fonts/1001fonts/FollowYouIntotheWorld.ttf
+./data/fonts/1001fonts/._Anastasia Script Personal Use.ttf
+./data/fonts/1001fonts/Silent Fighter.otf
+./data/fonts/1001fonts/PizzaismyFAVORITE.ttf
+./data/fonts/1001fonts/._Got to be Real Personal Use.ttf
+./data/fonts/1001fonts/PAROLE Script demo.otf
+./data/fonts/1001fonts/Autumn Moon - OTF.otf
+./data/fonts/1001fonts/._Wall Paper Personal Use.ttf
+./data/fonts/1001fonts/._Claudina Personal Use.ttf
+./data/fonts/1001fonts/MarckScript-Regular.ttf
+./data/fonts/1001fonts/Mf Be Yourself.ttf
+./data/fonts/1001fonts/Hitch-hike.otf
+./data/fonts/1001fonts/NeverSayNever.ttf
+./data/fonts/1001fonts/I Miss Your Kiss - TTF.ttf
+./data/fonts/1001fonts/Hello Heartache - TTF.ttf
+./data/fonts/1001fonts/Unicorn Sparkles - OTF.otf
+./data/fonts/1001fonts/ShadowsIntoLight.ttf
+./data/fonts/1001fonts/Ananda Black Personal Use.ttf
+./data/fonts/1001fonts/BlessingsthroughRaindrops.ttf
+./data/fonts/1001fonts/Stalemate-Regular.ttf
+./data/fonts/1001fonts/that i love you - TTF.ttf
+./data/fonts/1001fonts/KGAsTheDeer.ttf
+./data/fonts/1001fonts/Girls Have Many Secrets - TTF.ttf
+./data/fonts/1001fonts/Mf Really Awesome.ttf
+./data/fonts/1001fonts/Bad Gong.ttf
+./data/fonts/1001fonts/KGLesBouquinistesdeParis.ttf
+./data/fonts/1001fonts/JandaCheerfulScript.ttf
+./data/fonts/1001fonts/KGKeepYourHeadUp.ttf
+./data/fonts/1001fonts/._Cassandra Personal Use.ttf
+./data/fonts/1001fonts/NexaRustHandmade-Extended.otf
+./data/fonts/1001fonts/Give You What You Like - TTF.ttf
+./data/fonts/1001fonts/._Afternoon in Stereo Personal Use.ttf
+./data/fonts/1001fonts/ComingHome.ttf
+./data/fonts/1001fonts/Autumn Moon - TTF.ttf
+./data/fonts/1001fonts/A Perfect Place - TTF.ttf
+./data/fonts/1001fonts/Bite Chocolate Personal Use.ttf
+./data/fonts/1001fonts/Mf Wedding Bells.ttf
+./data/fonts/1001fonts/KGLoveSomebody.ttf
+./data/fonts/1001fonts/Liar Script - TTF.ttf
+./data/fonts/1001fonts/Fall is Coming - TTF.ttf
+./data/fonts/1001fonts/Galaxy Boy - OTF.otf
+./data/fonts/1001fonts/._Claudia Personal Use.ttf
+./data/fonts/1001fonts/TalkingToTheMoon.ttf
+./data/fonts/1001fonts/KGGraceForToday.ttf
+./data/fonts/1001fonts/Honey Lips Personal Use.ttf
+./data/fonts/1001fonts/March into Spring - OTF.otf
+./data/fonts/1001fonts/I Miss Your Kiss - OTF.otf
+./data/fonts/1001fonts/PWHandscript.ttf
+./data/fonts/1001fonts/KGLegacyofVirtue.ttf
+./data/fonts/1001fonts/Simply Complicated - TTF.ttf
+./data/fonts/1001fonts/Sacramento-Regular.ttf
+./data/fonts/1001fonts/KGFirstTimeInForever.ttf
+./data/fonts/1001fonts/For a Pessimist I'm Pretty Optimistic - TTF.ttf
+./data/fonts/1001fonts/._Adlery-Pro-Blockletter-trial.ttf
+./data/fonts/1001fonts/April Flowers - TTF.ttf
+./data/fonts/1001fonts/Let's Bake Muffins - TTF.ttf
+./data/fonts/1001fonts/Selya.ttf
+./data/fonts/1001fonts/._Magic Touch Personal Use.ttf
+./data/fonts/1001fonts/Love & Sunshine - OTF.otf
+./data/fonts/1001fonts/HangingByaThread.ttf
+./data/fonts/1001fonts/Let's Bake Muffins - OTF.otf
+./data/fonts/1001fonts/Yellow Butterflies - OTF.otf
+./data/fonts/1001fonts/Otterly Adorable - TTF.ttf
+./data/fonts/1001fonts/._Atmospherica Personal Use.ttf
+./data/fonts/1001fonts/Ready For It.ttf
+./data/fonts/1001fonts/PatrickHandSC-Regular.ttf
+./data/fonts/1001fonts/Vampire Calligraphy - TTF.ttf
+./data/fonts/1001fonts/Smol Kitty Boi - TTF.ttf
+./data/fonts/1001fonts/I Love Christmas.ttf
+./data/fonts/1001fonts/Pretty_City_Kitties.otf
+./data/fonts/1001fonts/My December - TTF.ttf
+./data/fonts/1001fonts/MyHandsareHoldingYou.ttf
+./data/fonts/1001fonts/Quirky & Messy.ttf
+./data/fonts/1001fonts/._Beredith Personal use.ttf
+./data/fonts/1001fonts/Yellow Butterflies - TTF.ttf
+./data/fonts/1001fonts/ToubibDemo-Medium.ttf
+./data/fonts/1001fonts/It is Definitely Possible - OTF.otf
+./data/fonts/1001fonts/Congrats Script - TTF.ttf
+./data/fonts/1001fonts/Haunted Moon - TTF.ttf
+./data/fonts/1001fonts/KGMullally.ttf
+./data/fonts/1001fonts/Cedarville-Cursive.ttf
+./data/fonts/1001fonts/Mojito in June.ttf
+./data/fonts/1001fonts/._Burning Heart Personal Use.ttf
+./data/fonts/1001fonts/December Sky - OTF.otf
+./data/fonts/1001fonts/KGChelseaMarketScript.ttf
+./data/fonts/1001fonts/._raustila-Regular.otf
+./data/fonts/1001fonts/Gruenewald VA normal.ttf
+./data/fonts/1001fonts/Everything You Want - OTF.otf
+./data/fonts/1001fonts/._Body&Soul Personal Use.ttf
+./data/fonts/1001fonts/Oh Whale - TTF.ttf
+./data/fonts/1001fonts/Simple Signature - TTF.ttf
+./data/fonts/1001fonts/March into Spring - TTF.ttf
+./data/fonts/1001fonts/TheGirlNextDoor.ttf
+./data/fonts/1001fonts/._Secretss Personal use.ttf
+./data/fonts/1001fonts/ReenieBeanie.ttf
+./data/fonts/1001fonts/Losing Grip - TTF.ttf
+./data/fonts/1001fonts/Stylish Calligraphy Demo.ttf
+./data/fonts/1001fonts/Miss Issippi - OTF.otf
+./data/fonts/1001fonts/Behind Blue Eyes - OTF.otf
+./data/fonts/1001fonts/Mywriting.ttf
+./data/fonts/1001fonts/._Altavista Personal Use.ttf
+./data/fonts/1001fonts/KGOnlyHuman.ttf
+./data/fonts/1001fonts/._Bella Fashion Personal Use.ttf
+./data/fonts/1001fonts/._Carpenters Personal Use.ttf
+./data/fonts/1001fonts/KG I Want Crazy.otf
+./data/fonts/1001fonts/AHundredMiles.ttf
+./data/fonts/1001fonts/SharkintheWaterBold.ttf
+./data/fonts/1001fonts/KGSevenSixteen.ttf
+./data/fonts/1001fonts/Antonine Personal Use.ttf
+./data/fonts/1001fonts/Love & Trust.ttf
+./data/fonts/1001fonts/Pecita.otf
+./data/fonts/1001fonts/December Sky - TTF.ttf
+./data/fonts/1001fonts/JarofHearts.ttf
+./data/fonts/1001fonts/._Honey Lips Personal Use.ttf
+./data/fonts/1001fonts/AnnieUseYourTelescope-Regular.ttf
+./data/fonts/1001fonts/My Epic Selfie Demo.ttf
+./data/fonts/1001fonts/End of the dream.ttf
+./data/fonts/1001fonts/JandaQuickNote.ttf
+./data/fonts/1001fonts/._Capable of Loving Personal Use.ttf
+./data/fonts/1001fonts/Cloud Calligraphy - TTF.ttf
+./data/fonts/1001fonts/._Allegratta Personal Use.ttf
+./data/fonts/1001fonts/Behind Blue Eyes - TTF.ttf
+./data/fonts/1001fonts/MyLuckyPenny.ttf
+./data/fonts/1001fonts/._Freehand-Blockletter-Regular-trial.ttf
+./data/fonts/1001fonts/Allegratta Personal Use.ttf
+./data/fonts/1001fonts/Affectionately Yours - OTF.otf
+./data/fonts/1001fonts/My Happy Ending - TTF.ttf
+./data/fonts/1001fonts/KGChasingPavements.ttf
+./data/fonts/1001fonts/Too Freakin Cute Demo.ttf
+./data/fonts/1001fonts/raustila-Regular.ttf
+./data/fonts/1001fonts/Meddon.ttf
+./data/fonts/1001fonts/Cassandra Personal Use.ttf
+./data/fonts/1001fonts/WrittenInTheStars.ttf
+./data/fonts/1001fonts/KatetheGreat.ttf
+./data/fonts/1001fonts/._Caranda Personal Use.ttf
+./data/fonts/1001fonts/._Bunch Blossoms Personal Use.ttf
+./data/fonts/1001fonts/Gruenewald VA 3K.ttf
+./data/fonts/1001fonts/Altavista Personal Use.ttf
+./data/fonts/1001fonts/ShadowsIntoLightTwo-Regular.ttf
+./data/fonts/1001fonts/Marienkaefer - TTF.ttf
+./data/fonts/1001fonts/NeverGrowUp.ttf
+./data/fonts/1001fonts/Dutch Tulips - TTF.ttf
+./data/fonts/1001fonts/ToubibDemo-Bold.ttf
+./data/fonts/1001fonts/Popcorn_Mountain--Standard_Thin.otf
+./data/fonts/1001fonts/Foxes In Love.ttf
+./data/fonts/1001fonts/Mf Autumn Breeze.ttf
+./data/fonts/1001fonts/._Adlery-Pro-trial.ttf
+./data/fonts/1001fonts/akaFrivolity.ttf
+./data/fonts/1001fonts/._BrushHandNew.ttf
+./data/fonts/1001fonts/Everything You Want - TTF.ttf
+./data/fonts/1001fonts/Spring is Coming - TTF.ttf
+./data/fonts/1001fonts/Hello Heartache - OTF.otf
+./data/fonts/1001fonts/Candice Personal Use.ttf
+./data/fonts/1001fonts/KGHardCandySolid.otf
+./data/fonts/1001fonts/Adlery-Swash-trial.ttf
+./data/fonts/1001fonts/Love & Trust (Hearted).ttf
+./data/fonts/1001fonts/._raustila-Regular.ttf
+./data/fonts/1001fonts/Feel My Heart - TTF.ttf
+./data/fonts/1001fonts/KGYouWontBringMeDownBold.ttf
+./data/fonts/1001fonts/Pretty Summer - TTF.ttf
+./data/fonts/1001fonts/LearningToTrust.ttf
+./data/fonts/1001fonts/Better Together Demo.ttf
+./data/fonts/1001fonts/JustRealize.ttf
+./data/fonts/1001fonts/KGWaystoSayGoodbye.ttf
+./data/fonts/1001fonts/Wall Paper Personal Use.ttf
+./data/fonts/1001fonts/December Calligraphy - OTF.otf
+./data/fonts/1001fonts/._Andorra Personal Use.ttf
+./data/fonts/1001fonts/KGLegoHouse.ttf
+./data/fonts/1001fonts/DESYREL_.ttf
+./data/fonts/1001fonts/Montez-Regular.ttf
+./data/fonts/1001fonts/TheGreatEscape.ttf
+./data/fonts/1001fonts/Feel My Heart - OTF.otf
+./data/fonts/1001fonts/My Oh My - OTF.otf
+./data/fonts/1001fonts/GloriaHallelujah.ttf
+./data/fonts/1001fonts/My Big Heart Demo.ttf
+./data/fonts/1001fonts/My Oh My - TTF.ttf
+./data/fonts/1001fonts/akaDora.otf
+./data/fonts/1001fonts/Brilhant PERSONAL USE.ttf
+./data/fonts/1001fonts/._Bite Chocolate Personal Use.ttf
+./data/fonts/1001fonts/Great Answer.ttf
+./data/fonts/1001fonts/._Childrens Party Personal Use.ttf
+./data/fonts/1001fonts/NothingYouCouldSay.ttf
+./data/fonts/1001fonts/Popcorn_Mountain--Condensed_Thin.otf
+./data/fonts/1001fonts/KGBeneathYourBeautiful.ttf
+./data/fonts/1001fonts/Mousedrawn.otf
+./data/fonts/1001fonts/KGManhattanScript.ttf
+./data/fonts/1001fonts/The Illusion of Beauty - TTF.ttf
+./data/fonts/1001fonts/Anastasia Script Personal Use.ttf
+./data/fonts/1001fonts/Anothershabby_pro_light_v2 trial.ttf
+./data/fonts/1001fonts/Our First Kiss.otf
+./data/fonts/1001fonts/You're So Cool - TTF.ttf
+./data/fonts/1001fonts/JustMeAgainDownHere.ttf
+./data/fonts/1001fonts/Beredith Personal use.ttf
+./data/fonts/1001fonts/Got to be Real Personal Use.ttf
+./data/fonts/1001fonts/Let That Be Enough - OTF.otf
+./data/fonts/1001fonts/Summer's Victory Over Spring - TTF.ttf
+./data/fonts/1001fonts/Affectionately Yours - TTF.ttf
+./data/fonts/1001fonts/Waiting For You - TTF.ttf
+./data/fonts/1001fonts/turkeyface.otf
+./data/fonts/1001fonts/Hot and Black Tea - TTF.ttf
+./data/fonts/1001fonts/Liar Script - OTF.otf
+./data/fonts/1001fonts/._Breakfast on the beach Personal Use.ttf
+./data/fonts/1001fonts/IMissedYou.ttf
+./data/fonts/1001fonts/Andorra Personal Use.ttf
+./data/fonts/1001fonts/KGINeedAFont.ttf
+./data/fonts/1001fonts/Echoes.ttf
+./data/fonts/1001fonts/._Antonine Personal Use.ttf
+./data/fonts/1001fonts/factory worker.ttf
+./data/fonts/1001fonts/Capable of Loving Personal Use.ttf
+./data/fonts/1001fonts/Quick Pangolin.ttf
+./data/fonts/1001fonts/Youth-Touch-PERSONAL USE ONLY.ttf
+./data/fonts/1001fonts/KGSmallTownSouthernGirl.ttf
+./data/fonts/1001fonts/Congrats Script - OTF.otf
+./data/fonts/1001fonts/April Flowers - OTF.otf
+./data/fonts/1001fonts/LovedbytheKing.ttf
+./data/fonts/1001fonts/Texas Twilight.ttf
+./data/fonts/1001fonts/youfoundme.ttf
+./data/fonts/1001fonts/Summer in December - OTF.otf
+./data/fonts/1001fonts/._Chapter One Personal Use.ttf
+./data/fonts/1001fonts/Ananda Personal Use.ttf
+./data/fonts/1001fonts/KGDropsofJupiter.ttf
+./data/fonts/1001fonts/ShePaintsMeBlue.ttf
+./data/fonts/1001fonts/LamiarLight.otf
+./data/fonts/1001fonts/TheOnlyException.ttf
+./data/fonts/1001fonts/Magical Night - TTF.ttf
+./data/fonts/1001fonts/I Heart You Always - TTF.ttf
+./data/fonts/1001fonts/Very You.ttf
+./data/fonts/1001fonts/LaBelleAurore.ttf
+./data/fonts/1001fonts/Love Is A Many Complicated Thing.ttf
+./data/fonts/1001fonts/Requited Script Demo.ttf
+./data/fonts/1001fonts/Jamscript_TRIAL.ttf
+./data/fonts/1001fonts/Hot and Black Tea - OTF.otf
+./data/fonts/1001fonts/Simply Complicated - OTF.otf
+./data/fonts/1001fonts/Coffee with Sugar.ttf
+./data/fonts/1001fonts/ElephantHiccups.ttf
+./data/fonts/1001fonts/Spooky Halloween - TTF.ttf
+./data/fonts/1001fonts/It is Definitely Possible - TTF.ttf
+./data/fonts/1001fonts/Qtie Script -TTF.ttf
+./data/fonts/1001fonts/gnyrwn971.ttf
+./data/fonts/1001fonts/Flower Shop - TTF.ttf
+./data/fonts/1001fonts/Love & Sunshine - TTF.ttf
+./data/fonts/1001fonts/For a Pessimist I'm Pretty Optimistic - OTF.otf
+./data/fonts/1001fonts/Unicorns are Awesome - TTF.ttf
+./data/fonts/1001fonts/SimpleRonde-Regular.ttf
+./data/fonts/1001fonts/I Love Glitter - OTF.otf
+./data/fonts/1001fonts/._Valentine Day Personal Use.ttf
+./data/fonts/1001fonts/Self Deception - TTF.ttf
+./data/fonts/1001fonts/._Candice Personal Use.ttf
+./data/fonts/1001fonts/LamiarLight.ttf
+./data/fonts/1001fonts/KGYouWontBringMeDown.ttf
+./data/fonts/1001fonts/Love Is Complicated Again - TTF.ttf
+./data/fonts/1001fonts/Cupcake Party Demo.ttf
+./data/fonts/1001fonts/KrugmannBrush.ttf
+./data/fonts/1001fonts/Thin Pencil Handwriting.otf
+./data/fonts/1001fonts/._Ananda Personal Use.ttf
+./data/fonts/1001fonts/._Bunch of Flowers Personal Use.ttf
+./data/fonts/1001fonts/ThrowMyHandsUpintheAir.ttf
+./data/fonts/1001fonts/._Blackberry Jam Personal Use.ttf
+./data/fonts/1001fonts/Popcorn_Mountain--Standard.otf
+./data/fonts/1001fonts/Summer's Victory Over Spring - OTF.otf
+./data/fonts/1001fonts/Sunday Holiday.ttf
+./data/fonts/1001fonts/KGWhatDoesTheFoxSay.ttf
+./data/fonts/1001fonts/Smart_Kid.otf
+./data/fonts/1001fonts/CoveredByYourGrace.ttf
+./data/fonts/1001fonts/Where the Lonely Ones Roam - TTF.ttf
+./data/fonts/1001fonts/PWShesAmazing.ttf
+./data/fonts/1001fonts/The Illusion of Beauty - OTF.otf
+./data/fonts/1001fonts/Kiss Me or Not - TTF.ttf
+./data/fonts/1001fonts/._Ananda Black Personal Use.ttf
+./data/fonts/1001fonts/._Romochka.otf
+./data/fonts/1001fonts/StarsFromOurEyes.ttf
+./data/fonts/1001fonts/AYearWithoutRain.ttf
+./data/fonts/1001fonts/Mf Air Balloon.ttf
+./data/fonts/1001fonts/Love Is Complicated Again - OTF.otf
+./data/fonts/1001fonts/Wolgast Two Normal Cyr.ttf
+./data/fonts/1001fonts/KGDarkSide.ttf
+./data/fonts/1001fonts/Vampire Kiss Demo.ttf
+./data/fonts/1001fonts/Music Magic Personal Use.ttf
+./data/fonts/1001fonts/Zeyada.ttf
+./data/fonts/1001fonts/Burning Heart Personal Use.ttf
+./data/fonts/1001fonts/Claudina Personal Use.ttf
+./data/fonts/1001fonts/Texas Woman - TTF.ttf
+./data/fonts/1001fonts/Let That Be Enough - TTF.ttf
+./data/fonts/1001fonts/Autumn in November.ttf
+./data/fonts/1001fonts/Kalam-Light.ttf
+./data/fonts/1001fonts/._Ames-Regular.otf
+./data/fonts/1001fonts/Secretss Personal use.ttf
+./data/fonts/1001fonts/Girls Have Many Secrets - OTF.otf
+./data/fonts/1001fonts/PAROLE Script Italic demo.otf
+./data/fonts/1001fonts/raustila-Regular.otf
+./data/fonts/1001fonts/Spooky Halloween - OTF.otf
+./data/fonts/1001fonts/Popcorn_Mountain--Condensed.otf
+./data/fonts/eng/Italianno-Regular-OTF.otf
+./data/fonts/eng/Allura-Regular.ttf                   
+./data/fonts/eng/Havana-Regular.ttf
+./data/fonts/eng/Bajaderka-Regular.ttf
+./data/fonts/eng/caveat-bold.ttf                      
+./data/fonts/eng/KaushanScript-Regular.ttf
+./data/fonts/eng/caveatbrush-regular.ttf              
+./data/fonts/eng/LovedbytheKing-Regular.ttf
+./data/fonts/eng/caveat-regular.ttf                   
+./data/fonts/eng/Nickainley-Normal.ttf
+./data/fonts/eng/ClickerScript-Regular.ttf            
+./data/fonts/eng/OvertheRainbow.ttf
+./data/fonts/eng/DancingScript-SemiBold.ttf           
+./data/fonts/eng/Pacifico-Regular.ttf
+./data/fonts/eng/DancingScript-VariableFont_wght.ttf  
+./data/fonts/eng/Parisienne-Regular.ttf
+./data/fonts/eng/Devonshire-Regular.ttf               
+./data/fonts/eng/PetitFormalScript-Regular.ttf
+./data/fonts/eng/Dynalight-Regular.otf                
+./data/fonts/eng/Sacramento-Regular.ttf
+./data/fonts/eng/Frenchpress freefont.otf 
+./data/fonts/eng/GrandHotel-Regular.ttf        
+./data/fonts/eng/GreatVibes-Regular.ttf               
+./data/fonts/eng/Tagger-Regular.ttf
+./data/fonts/eng/Hack-Regular.ttf                     
+./data/fonts/eng/Yellowtail-Regular.otf
+./data/fonts/google fonts/GreatVibes-Regular.ttf
+./data/fonts/google fonts/PatrickHand-Regular.ttf
+./data/fonts/google fonts/Mali-Regular.ttf
+./data/fonts/google fonts/SedgwickAve-Regular.ttf
+./data/fonts/google fonts/Kalam-Regular.ttf
+./data/fonts/google fonts/Mali-SemiBoldItalic.ttf
+./data/fonts/google fonts/Caveat-Regular.ttf
+./data/fonts/google fonts/Fondamento-Regular.ttf
+./data/fonts/google fonts/DancingScript-VariableFont_wght.ttf
+./data/fonts/google fonts/Courgette-Regular.ttf
+./data/fonts/google fonts/JustMeAgainDownHere-Regular.ttf
+./data/fonts/google fonts/Caveat-Bold.ttf
+./data/fonts/google fonts/AmaticSC-Regular.ttf
+./data/fonts/google fonts/Quintessential-Regular.ttf
+./data/fonts/google fonts/MarckScript-Regular.ttf
+./data/fonts/google fonts/Stalemate-Regular.ttf
+./data/fonts/google fonts/Mali-Medium.ttf
+./data/fonts/google fonts/Mali-LightItalic.ttf
+./data/fonts/google fonts/Charmonman-Bold.ttf
+./data/fonts/google fonts/GrandHotel-Regular.ttf
+./data/fonts/google fonts/Pacifico-Regular.ttf
+./data/fonts/google fonts/Tillana-SemiBold.ttf
+./data/fonts/google fonts/Sacramento-Regular.ttf
+./data/fonts/google fonts/Allura-Regular.ttf
+./data/fonts/google fonts/Mali-Bold.ttf
+./data/fonts/google fonts/PatrickHandSC-Regular.ttf
+./data/fonts/google fonts/EagleLake-Regular.ttf
+./data/fonts/google fonts/JimNightshade-Regular.ttf
+./data/fonts/google fonts/Tillana-ExtraBold.ttf
+./data/fonts/google fonts/Pangolin-Regular.ttf
+./data/fonts/google fonts/KaushanScript-Regular.ttf
+./data/fonts/google fonts/AmaticSC-Bold.ttf
+./data/fonts/google fonts/Romanesco-Regular.ttf
+./data/fonts/google fonts/Mali-ExtraLightItalic.ttf
+./data/fonts/google fonts/Tillana-Bold.ttf
+./data/fonts/google fonts/BerkshireSwash-Regular.ttf
+./data/fonts/google fonts/Amita-Bold.ttf
+./data/fonts/google fonts/Dekko-Regular.ttf
+./data/fonts/google fonts/SedgwickAveDisplay-Regular.ttf
+./data/fonts/google fonts/ShadowsIntoLightTwo-Regular.ttf
+./data/fonts/google fonts/ClickerScript-Regular.ttf
+./data/fonts/google fonts/Mali-MediumItalic.ttf
+./data/fonts/google fonts/Itim-Regular.ttf
+./data/fonts/google fonts/Mali-Italic.ttf
+./data/fonts/google fonts/Charm-Bold.ttf
+./data/fonts/google fonts/Tillana-Medium.ttf
+./data/fonts/google fonts/Mali-ExtraLight.ttf
+./data/fonts/google fonts/Sriracha-Regular.ttf
+./data/fonts/google fonts/Charmonman-Regular.ttf
+./data/fonts/google fonts/Mali-Light.ttf
+./data/fonts/google fonts/Mali-SemiBold.ttf
+./data/fonts/google fonts/Charm-Regular.ttf
+./data/fonts/google fonts/Kavivanar-Regular.ttf
+./data/fonts/google fonts/Devonshire-Regular.ttf
+./data/fonts/google fonts/Kalam-Bold.ttf
+./data/fonts/google fonts/PetitFormalScript-Regular.ttf
+./data/fonts/google fonts/Mali-BoldItalic.ttf
+./data/fonts/google fonts/Tillana-Regular.ttf
+./data/fonts/google fonts/CaveatBrush-Regular.ttf
+./data/fonts/google fonts/Parisienne-Regular.ttf
+./data/fonts/google fonts/Amita-Regular.ttf
+./data/fonts/google fonts/Italianno-Regular.ttf
+./data/fonts/google fonts/Fondamento-Italic.ttf
+./data/fonts/google fonts/Kalam-Light.ttf
+

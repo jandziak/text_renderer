@@ -374,7 +374,7 @@ class Renderer(object):
         text_x = int((bg_width - width) / 2)
         text_y = int((bg_height - height) / 2)
         # use random procentage of squeeze from the range [0.6, 1)
-        squeeze_procent = (random.random()+0.6)/1.6
+        squeeze_procent = (random.random()+0.7)/1.7
 
         c_x = text_x
         c_y = text_y

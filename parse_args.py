@@ -45,6 +45,8 @@ def parse_args():
     parser.add_argument('--output_dir', type=str, default='./output', help='Images save dir')
 
     parser.add_argument('--tag', type=str, default='default', help='output images are saved under output_dir/{tag} dir')
+    parser.add_argument('--cut_tag', type=str, default='default_cut',
+                        help='output craft cut images are saved under output_dir/{tag} dir')
 
     parser.add_argument('--debug', action='store_true', default=False, help="output uncroped image")
 
@@ -60,7 +62,7 @@ def parse_args():
 
     flags, _ = parser.parse_known_args()
     flags.save_dir = os.path.join(flags.output_dir, flags.tag)
-
+    flags.save_cut_dir = os.path.join(flags.output_dir, flags.cut_tag)
     if os.path.exists(flags.bg_dir):
         num_bg = len(os.listdir(flags.bg_dir))
         flags.num_bg = num_bg

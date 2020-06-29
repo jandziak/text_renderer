@@ -27,7 +27,10 @@ import libs.utils as utils
 import libs.font_utils as font_utils
 from textrenderer.corpus.corpus_utils import corpus_factory
 from textrenderer.renderer import Renderer
+from textrenderer.cutter import combine_single_generated_set, warpBox, calc_box
 from tenacity import retry
+import keras_ocr
+from tqdm import tqdm
 
 lock = mp.Lock()
 counter = mp.Value('i', 0)
@@ -171,3 +174,14 @@ if __name__ == "__main__":
 
     if not flags.viz:
         sort_labels(tmp_label_path, label_path)
+
+    # Combine the data table before transformation
+    df = combine_single_generated_set(flags.save_dir)
+    df.to_csv(flags.save_cut_dir + '/gt_labels.csv')
+    detector = keras_ocr.detection.Detector()
+    for i in tqdm(range(len(df))):
+    #i = 155
+    #if i == 155:
+        bboxes, image = calc_box(img_path=df.path[i], detector=detector)
+        boxed = warpBox(image, bboxes[0][0], margin=0.1)
+        cv2.imwrite(flags.save_cut_dir + '/' + df.id[i] + '.jpg', boxed)
